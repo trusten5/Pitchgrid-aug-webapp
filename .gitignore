@@ -1,0 +1,21 @@
+# Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Streamlit cache and config
+.streamlit/
+
+# System / IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Jupyter / misc
+.ipynb_checkpoints/
